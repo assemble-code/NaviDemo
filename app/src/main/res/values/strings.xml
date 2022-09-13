@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Navi Demo</string>
+    <string name="authored_by">Authored By</string>
+    <string name="created_on">Created on %s</string>
+    <string name="closed_on">Closed on %s</string>
+    <string name="no_internet_connect_retry">No Internet Connection\nPlease click to retry</string>
+    <string name="no_internet_connect">No Internet Connection</string>
+    <string name="please_wait_loading">Please Wait, Loading...</string>
+</resources>
